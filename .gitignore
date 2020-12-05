@@ -1,2 +1,4 @@
 .settings/*
 target/*
+.github/workflows/*
+tomcat-users.xml
